@@ -1,1 +1,1 @@
-# handqritten-number-recognition
+# handwritten-number-recognition
